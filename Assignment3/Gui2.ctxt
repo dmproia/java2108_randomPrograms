@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Gui2()
+comment0.text=Contructor\ for\ my\ GUI
+comment1.params=evt
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=min\ max
+comment2.target=int\ randNum(int,\ int)
+comment3.params=arrTime\ serTime
+comment3.target=Student\ studentBuild(int,\ int)
+comment4.params=minArrive\ maxArrive\ minService\ maxService\ queueNum\ studentNum
+comment4.target=void\ processQueue(int,\ int,\ int,\ int,\ int,\ int)
+comment5.params=minArrive\ maxArrive\ minService\ maxService\ queueNum\ studentNum
+comment5.target=void\ multipleProcessQueue(int,\ int,\ int,\ int,\ int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=The\ entry\ main()\ method
+numComments=7

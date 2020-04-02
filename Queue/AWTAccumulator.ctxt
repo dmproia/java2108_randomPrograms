@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AWTAccumulator()
+comment0.text=Constructor\ to\ setup\ the\ GUI
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=The\ entry\ main()\ method
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\ Event\ handler\ -\ Called\ back\ when\ user\ hits\ the\ enter\ key\ on\ the\r\nTextField
+numComments=3

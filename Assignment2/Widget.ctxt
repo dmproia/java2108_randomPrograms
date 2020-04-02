@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Widget()
+comment1.params=nTime\ nCost\ nQty
+comment1.target=Widget(int,\ double,\ int)
+comment2.params=newWidget
+comment2.target=Widget(Widget)
+comment3.params=
+comment3.target=int\ getTime()
+comment4.params=
+comment4.target=double\ getCost()
+comment5.params=
+comment5.target=int\ getQty()
+comment6.params=nQty
+comment6.target=void\ setQty(int)
+comment7.params=nTime
+comment7.target=void\ setTime(int)
+comment8.params=nCost
+comment8.target=void\ setCost(double)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=arrivalTime
+comment0.target=Passenger(int)
+comment0.text=\ Create\ a\ new\ passenger.\r\n@param\ arrivalTime\ The\ time\ this\ passenger\ arrives
+comment1.params=arrivalTime\ processingTime
+comment1.target=Passenger(int,\ int)
+comment1.text=\r\n\ Create\ a\ new\ passenger\ with\ a\ specified\ processing\ time\r\n\ @param\ arrivalTime\ The\ time\ this\ passenger\ arrives\r\n\ @param\ processingTime\ The\ time\ required\ to\ process\ this\ passenger\r\n
+comment2.params=
+comment2.target=int\ getArrivalTime()
+comment2.text=\r\n\ Get\ the\ arrival\ time.\r\n\ @return\ The\ arrival\ time\r\n
+comment3.params=
+comment3.target=int\ getProcessingTime()
+comment3.text=\r\n\ Get\ the\ processing\ time.\r\n\ @return\ The\ processing\ time\r\n
+comment4.params=
+comment4.target=int\ getId()
+comment4.text=\r\n\ Get\ the\ passenger\ ID.\r\n\ @return\ The\ passenger\ ID\r\n
+comment5.params=maxProcessTime
+comment5.target=void\ setMaxProcessingTime(int)
+comment5.text=\r\n\ Set\ the\ maximum\ processing\ time\r\n\ @param\ maxProcessingTime\ The\ new\ value\r\n
+comment6.params=
+comment6.target=int\ getMaxProcessingTime()
+comment6.text=\r\n\ Get\ the\ maximum\ processing\ time\r\n\ @return\ the\ maximum\ processing\ time\r\n
+numComments=7

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=arrTime\ serTime\ compTime
+comment0.target=Event(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getArrTime()
+comment2.params=arrTime
+comment2.target=void\ setArrTime(int)
+comment3.params=
+comment3.target=int\ getSerTime()
+comment4.params=serTime
+comment4.target=void\ setSerTime(int)
+comment5.params=
+comment5.target=int\ getCompTime()
+comment6.params=compTime
+comment6.target=void\ setCompTime(int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

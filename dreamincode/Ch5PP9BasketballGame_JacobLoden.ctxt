@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setGameOver()
+comment1.params=newNameA
+comment1.target=void\ setNameA(java.lang.String)
+comment2.params=newNameB
+comment2.target=void\ setNameB(java.lang.String)
+comment3.params=newScoreA
+comment3.target=void\ setScoreA(int)
+comment4.params=newScoreB
+comment4.target=void\ setScoreB(int)
+comment5.params=
+comment5.target=void\ readImput()
+numComments=6

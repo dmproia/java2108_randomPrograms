@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\r\n@param\ args\ optional\ file\ name\ for\ simulation\ parameters
+comment1.params=
+comment1.target=void\ enterData()
+comment1.text=Method\ to\ read\ the\ simulation\ parameters
+comment2.params=fileName
+comment2.target=void\ enterData(java.lang.String)
+comment3.params=
+comment3.target=void\ startServe()
+comment3.text=Method\ to\ start\ serving\ a\ customer
+comment4.params=
+comment4.target=void\ showStats()
+comment4.text=Method\ to\ show\ the\ statistics.
+comment5.params=
+comment5.target=void\ runSimulation()
+comment5.text=Method\ to\ run\ the\ simulation
+comment6.params=arrivalTimesString
+comment6.target=parseArrivalTimes(java.lang.String)
+numComments=7
